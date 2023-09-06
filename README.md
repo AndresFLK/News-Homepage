@@ -1,9 +1,9 @@
-# Frontend Mentor - News homepage
+# News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+This is a web design for a news landing page with multple areas of content.
 
 
